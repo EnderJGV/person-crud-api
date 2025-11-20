@@ -1,8 +1,8 @@
 # API CRUD Completa
 
-![App Screenshot](https://i.ibb.co/QFTQ7w0L/Captura-de-tela-2025-11-20-134830.png)
-
 ## Descrição do Projeto
+
+![Swagger UI](https://i.ibb.co/QFTQ7w0L/Captura-de-tela-2025-11-20-134830.png)
 
 Este projeto é uma API completa para realizar operações CRUD (Create, Read, Update, Delete) em um banco de dados SQLite. Ele foi desenvolvido utilizando o framework .NET 8.0 e o Entity Framework Core para gerenciar o banco de dados. A API é projetada para gerenciar informações de pessoas, incluindo dados como nome, gênero, documento, e-mail, telefone, endereço, cidade, estado, CEP e data de nascimento.
 
